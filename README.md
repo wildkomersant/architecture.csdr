@@ -226,8 +226,8 @@ DOM дополняется новыми отделами.
 
 Далее по теме: 
 
-![](/Картинки/Общение.png) <a target="_blank" href="https://github.com/it-architector/core.csdr">Ядро на PHP посредством архитектуры CSDR</a><br>
-![](/Картинки/Общение.png) <a target="_blank" href="https://github.com/it-architector/interface.csdr">Интерфейс на JS посредством архитектуры CSDR</a><br>
+![](/Картинки/Общение.png) <a target="_blank" href="https://github.com/it-architector/constructor.csdr">Парадигма конструктора проекта посредством архитектуры CSDR</a><br>
+![](/Картинки/Общение.png) <a target="_blank" href="https://github.com/it-architector/framework.csdr">Парадигма framework'a сопровождающая разработку проекта посредством архитектуры CSDR</a><br>
 ![](/Картинки/Пополнить%20баланс.png) <a href="https://money.yandex.ru/to/410013830829482/500000">Мой баланс (не трусьте, пополняйте!)</a>
 
 Публикации:
